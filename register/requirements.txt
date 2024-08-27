@@ -1,0 +1,7 @@
+Flask==2.3.3
+Flask-Cors==3.1.1
+Flask-Mail==0.9.1
+mysqlclient==2.1.1  # MySQLdb is part of mysqlclient
+py_eureka_client==0.9.4
+Werkzeug==2.3.3
+asyncio==3.4.3
